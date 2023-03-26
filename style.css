@@ -2,6 +2,7 @@
     -webkit-tap-highlight-color: transparent;
     font-family: 'Roboto', sans-serif;
     font-size: 17px;
+filter:blur(40px);
 }
 
 a {
