@@ -20,6 +20,7 @@ setInterval(() => {
     locations.innerText = "   Near Gopalganj Bihar";
     elm.appendChild(message)
 }, 200);
+alert("Sorry ! Website is under development. Come back later ⏰⏰⏰")
 
 document.addEventListener("click", () => {
     mm.style.display = "none"
