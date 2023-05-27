@@ -17,10 +17,10 @@ setInterval(() => {
 
     elm.appendChild(time)
     elm.appendChild(locations)
-    locations.innerText = "   Near Gopalganj Bihar";
+    locations.innerText = "India";
     elm.appendChild(message)
 }, 200);
-alert("Sorry ! Website is under development. Come back later ⏰⏰⏰")
+alert("Sorry ! Website is under development. Come back later ⏰⏰⏰ \ 25/04/2022")
 
 document.addEventListener("click", () => {
     mm.style.display = "none"
